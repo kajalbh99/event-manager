@@ -1,0 +1,8 @@
+[23-Aug-2018 04:53:13 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home3/idzssl5m/public_html/event-manager/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/idzssl5m/public_html/event-manager/routes/api.php on line 16
+[23-Aug-2018 04:53:19 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home3/idzssl5m/public_html/event-manager/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/idzssl5m/public_html/event-manager/routes/api.php on line 16

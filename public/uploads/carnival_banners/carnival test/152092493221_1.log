@@ -1,0 +1,185 @@
+﻿2017-09-22 12:51:03> Program: Starting Squirrel Updater: --createShortcut=Postman.exe
+2017-09-22 12:51:03> ApplyReleasesImpl: About to create shortcuts for Postman.exe, rootAppDir C:\Users\Kajal.Bhowmick\AppData\Local\Postman
+2017-09-22 12:51:04> ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\Kajal.Bhowmick\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk
+2017-09-22 12:51:04> ApplyReleasesImpl: About to save shortcut: C:\Users\Kajal.Bhowmick\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Postman\Postman.lnk (target C:\Users\Kajal.Bhowmick\AppData\Local\Postman\Update.exe, workingDir C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0, args --processStart "Postman.exe")
+2017-09-22 12:51:04> ApplyReleasesImpl: Creating shortcut for Postman.exe => C:\Users\Kajal.Bhowmick\Desktop\Postman.lnk
+2017-09-22 12:51:04> ApplyReleasesImpl: About to save shortcut: C:\Users\Kajal.Bhowmick\Desktop\Postman.lnk (target C:\Users\Kajal.Bhowmick\AppData\Local\Postman\Update.exe, workingDir C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0, args --processStart "Postman.exe")
+2017-09-22 12:51:04> ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+2017-09-25 11:22:12> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-09-25 11:22:13> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0\Postman.exe'
+2017-09-25 11:22:13> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0\Postman.exe': 
+2017-09-25 16:04:05> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-09-25 16:04:05> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0\Postman.exe'
+2017-09-25 16:04:05> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0\Postman.exe': 
+2017-09-26 10:13:36> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-09-26 10:13:36> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0\Postman.exe'
+2017-09-26 10:13:36> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0\Postman.exe': 
+2017-09-26 16:11:00> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-09-26 16:11:00> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0\Postman.exe'
+2017-09-26 16:11:00> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.0\Postman.exe': 
+2017-09-26 16:11:16> Program: Starting Squirrel Updater: --download https://dl.pstmn.io/update/WIN64/5.2.0/stable
+2017-09-26 16:11:16> Program: Fetching update information, downloading from https://dl.pstmn.io/update/WIN64/5.2.0/stable
+2017-09-26 16:11:17> CheckForUpdateImpl: Generated new staging user ID: ed87178f-3627-5b5a-963d-74fc186af597
+2017-09-26 16:11:17> CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/5.2.0/stable
+2017-09-26 16:11:19> FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/5.2.0/stable/RELEASES?id=Postman&localVersion=5.2.0&arch=amd64
+2017-09-26 16:11:21> FileDownloader: Downloading file: https://dl.pstmn.io/download/5.2.1/Postman-win64-5.2.1-delta.nupkg
+2017-09-26 16:11:22> UpdateInfo: Couldn't get release notes for:Postman-win64-5.2.1-delta.nupkg: System.Exception: Invalid 'ReleaseNotes' value in nuspec file at 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\packages\Postman-win64-5.2.1-delta.nupkg'
+   at Squirrel.ReleaseEntry.GetReleaseNotes(String packageDirectory)
+   at Squirrel.UpdateInfo.<FetchReleaseNotes>b__19_0(ReleaseEntry x)
+2017-09-26 16:11:23> Program: Starting Squirrel Updater: --update https://dl.pstmn.io/update/WIN64/5.2.0/stable
+2017-09-26 16:11:23> Program: Starting update, downloading from https://dl.pstmn.io/update/WIN64/5.2.0/stable
+2017-09-26 16:11:23> Program: About to update to: C:\Users\Kajal.Bhowmick\AppData\Local\Postman
+2017-09-26 16:11:23> CheckForUpdateImpl: Using existing staging user ID: ed87178f-3627-5b5a-963d-74fc186af597
+2017-09-26 16:11:23> CheckForUpdateImpl: Downloading RELEASES file from https://dl.pstmn.io/update/WIN64/5.2.0/stable
+2017-09-26 16:11:23> FileDownloader: Downloading url: https://dl.pstmn.io/update/WIN64/5.2.0/stable/RELEASES?id=Postman&localVersion=5.2.0&arch=amd64
+2017-09-26 16:11:24> FileDownloader: Downloading file: https://dl.pstmn.io/download/5.2.1/Postman-win64-5.2.1-delta.nupkg
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\blink_image_resources_200_percent.pak.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\content_resources_200_percent.pak.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\content_shell.pak.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\d3dcompiler_47.dll.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\ffmpeg.dll.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\icudtl.dat.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\libEGL.dll.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\libGLESv2.dll.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\LICENSE.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\natives_blob.bin.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: lib\net45\node.dll.diff exists unchanged, skipping
+2017-09-26 16:11:33> DeltaPackageBuilder: Applying BSDiff to lib\net45\Postman.exe.bsdiff
+2017-09-26 16:11:35> DeltaPackageBuilder: lib\net45\snapshot_blob.bin.diff exists unchanged, skipping
+2017-09-26 16:11:35> DeltaPackageBuilder: Applying MSDiff to lib\net45\squirrel.exe.diff
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\ui_resources_200_percent.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\views_resources_200_percent.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\xinput1_3.dll.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\am.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\ar.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\bg.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\bn.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\ca.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\cs.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\da.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\de.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\el.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\en-GB.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\en-US.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\es-419.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\es.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\et.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\fa.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\fake-bidi.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\fi.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\fil.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\fr.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\gu.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\he.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\hi.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\hr.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\hu.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\id.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\it.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\ja.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\kn.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\ko.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\lt.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\lv.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\ml.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\mr.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\ms.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\nb.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\nl.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\pl.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\pt-BR.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\pt-PT.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\ro.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\ru.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\sk.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\sl.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\sr.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\sv.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\sw.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\ta.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\te.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\th.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\tr.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\uk.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\vi.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\zh-CN.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: lib\net45\locales\zh-TW.pak.diff exists unchanged, skipping
+2017-09-26 16:11:36> DeltaPackageBuilder: Applying BSDiff to lib\net45\resources\app.asar.bsdiff
+2017-09-26 16:11:38> DeltaPackageBuilder: lib\net45\resources\electron.asar.diff exists unchanged, skipping
+2017-09-26 16:11:38> DeltaPackageBuilder: Updating metadata file: Postman.nuspec
+2017-09-26 16:11:38> DeltaPackageBuilder: Updating metadata file: [Content_Types].xml
+2017-09-26 16:11:38> DeltaPackageBuilder: Updating metadata file: package\services\metadata\core-properties\c8392af4769247f89ab73c8b53d01bd5.psmdcp
+2017-09-26 16:11:38> DeltaPackageBuilder: Updating metadata file: _rels\.rels
+2017-09-26 16:11:38> DeltaPackageBuilder: Repacking into full package: C:\Users\Kajal.Bhowmick\AppData\Local\Postman\packages\Postman-win64-5.2.1.nupkg
+2017-09-26 16:11:54> ApplyReleasesImpl: Writing files to app directory: C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1
+2017-09-26 16:12:00> ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe]
+2017-09-26 16:12:04> ApplyReleasesImpl: Starting fixPinnedExecutables
+2017-09-26 16:12:04> ApplyReleasesImpl: Examining Pin: Google Chrome.lnk
+2017-09-26 16:12:04> ApplyReleasesImpl: Fixing up tray icons
+2017-09-26 16:12:05> ApplyReleasesImpl: Couldn't rewrite shim RegKey, most likely no apps are shimmed: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<unshimOurselves>b__13_0(RegistryView view)
+2017-09-26 16:12:05> ApplyReleasesImpl: Couldn't rewrite shim RegKey, most likely no apps are shimmed: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<unshimOurselves>b__13_0(RegistryView view)
+2017-09-26 16:12:05> ApplyReleasesImpl: cleanDeadVersions: for version 5.2.1
+2017-09-26 16:12:05> ApplyReleasesImpl: cleanDeadVersions: exclude folder app-5.2.0
+2017-09-26 16:12:05> ApplyReleasesImpl: cleanDeadVersions: exclude folder app-5.2.1
+2017-09-26 16:12:06> InstallHelperImpl: Couldn't write uninstall icon, don't care: System.Net.WebException: Could not find a part of the path 'C:\Users\Postman\buildkite-agent\builds\postman-ci-agent-windows-1\postman\electron-package-and-deploy\targets\electron_resources\postman-prod.ico'. ---> System.Net.WebException: Could not find a part of the path 'C:\Users\Postman\buildkite-agent\builds\postman-ci-agent-windows-1\postman\electron-package-and-deploy\targets\electron_resources\postman-prod.ico'. ---> System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Postman\buildkite-agent\builds\postman-ci-agent-windows-1\postman\electron-package-and-deploy\targets\electron_resources\postman-prod.ico'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   at System.Net.FileWebStream..ctor(FileWebRequest request, String path, FileMode mode, FileAccess access, FileShare sharing, Int32 length, Boolean async)
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   --- End of inner exception stack trace ---
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   at System.Net.FileWebRequest.GetResponseCallback(Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.FileWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   at Squirrel.UpdateManager.InstallHelperImpl.<CreateUninstallerRegistryEntry>d__5.MoveNext()
+2017-09-26 16:19:10> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-09-26 16:19:10> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-09-26 16:19:10> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-09-28 10:16:29> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-09-28 10:16:29> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-09-28 10:16:29> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-09-28 10:31:41> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-09-28 10:31:41> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-09-28 10:31:41> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-09-28 11:22:38> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-09-28 11:22:38> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-09-28 11:22:38> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-10-03 13:06:22> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-10-03 13:06:22> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-10-03 13:06:22> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-10-03 18:17:18> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-10-03 18:17:18> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-10-03 18:17:18> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-10-04 11:01:32> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-10-04 11:01:32> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-10-04 11:01:32> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-10-04 19:29:37> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-10-04 19:29:37> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-10-04 19:29:37> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-10-05 16:51:58> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-10-05 16:51:58> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-10-05 16:51:58> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-10-09 10:46:54> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-10-09 10:46:55> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-10-09 10:46:55> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-10-09 19:22:24> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-10-09 19:22:24> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-10-09 19:22:24> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-10-11 11:19:02> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-10-11 11:19:02> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-10-11 11:19:02> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-10-30 11:32:19> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-10-30 11:32:20> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-10-30 11:32:20> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 
+2017-11-30 11:42:49> Program: Starting Squirrel Updater: --processStart Postman.exe
+2017-11-30 11:42:50> Program: Want to launch 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe'
+2017-11-30 11:42:50> Program: About to launch: 'C:\Users\Kajal.Bhowmick\AppData\Local\Postman\app-5.2.1\Postman.exe': 

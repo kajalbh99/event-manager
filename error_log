@@ -1,0 +1,207 @@
+[02-Apr-2018 09:03:55 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:04:22 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:05:15 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:05:15 UTC] PHP Fatal error:  Class 'App\Models\state' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 95
+[02-Apr-2018 09:05:54 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:05:59 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:06:09 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:06:19 UTC] PHP Fatal error:  Class 'App\Models\state' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 95
+[02-Apr-2018 09:06:29 UTC] PHP Fatal error:  Class 'App\Models\state' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 95
+[02-Apr-2018 09:06:35 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:08:37 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:29:19 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:29:19 UTC] PHP Fatal error:  Class 'App\Models\state' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 95
+[02-Apr-2018 09:29:20 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:31:46 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:34:20 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:34:20 UTC] PHP Fatal error:  Class 'App\Models\state' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 95
+[02-Apr-2018 09:35:56 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:36:06 UTC] PHP Fatal error:  Class 'App\Models\country' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 78
+[02-Apr-2018 09:36:13 UTC] PHP Fatal error:  Class 'App\Models\state' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 95
+[04-Apr-2018 06:41:13 UTC] PHP Fatal error:  Class 'App\Http\Controllers\api\BandCarnival' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 61
+[04-Apr-2018 10:22:47 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 64
+[04-Apr-2018 10:24:33 UTC] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 64
+[04-Apr-2018 11:41:26 UTC] PHP Fatal error:  Class 'App\Http\Controllers\api\BandReview' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 80
+[04-Apr-2018 11:42:04 UTC] PHP Fatal error:  Class 'App\Models\BandReview' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 81
+[04-Apr-2018 12:00:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\api\Band' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 81
+[04-Apr-2018 13:50:25 UTC] PHP Fatal error:  Cannot use App\Models\EventReview as EventReview because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 14
+[04-Apr-2018 13:50:32 UTC] PHP Fatal error:  Cannot use App\Models\EventReview as EventReview because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 14
+[04-Apr-2018 13:50:34 UTC] PHP Fatal error:  Cannot use App\Models\EventReview as EventReview because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 14
+[10-Apr-2018 03:55:23 America/Chicago] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[10-Apr-2018 10:55:30 UTC] PHP Fatal error:  Class 'App\Models\band' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php on line 487
+[11-Apr-2018 12:56:02 UTC] PHP Fatal error:  Class 'App\Http\Controllers\api\File' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 265
+[11-Apr-2018 13:18:28 UTC] PHP Fatal error:  Class 'App\Http\Controllers\api\File' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 266
+[11-Apr-2018 13:22:31 UTC] PHP Fatal error:  Class 'App\Http\Controllers\api\File' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 266
+[11-Apr-2018 13:23:25 UTC] PHP Fatal error:  Class 'App\Http\Controllers\api\File' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 266
+[12-Apr-2018 07:39:27 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 211
+[12-Apr-2018 07:39:41 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 211
+[12-Apr-2018 07:39:58 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 211
+[12-Apr-2018 07:44:16 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 211
+[12-Apr-2018 14:00:48 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 275
+[12-Apr-2018 14:00:48 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 275
+[13-Apr-2018 07:08:16 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\RegisterController::check_friend_request() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 254
+[13-Apr-2018 07:08:16 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\RegisterController::check_friend_request() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 254
+[20-Apr-2018 08:54:56 UTC] PHP Fatal error:  Class 'Nahid\Talk\TalkServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[20-Apr-2018 08:54:57 UTC] PHP Fatal error:  Class 'Nahid\Talk\TalkServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[20-Apr-2018 08:55:06 UTC] PHP Fatal error:  Class 'Nahid\Talk\TalkServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[20-Apr-2018 08:55:06 UTC] PHP Fatal error:  Class 'Nahid\Talk\TalkServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[20-Apr-2018 09:28:02 UTC] PHP Fatal error:  Class 'Nahid\Talk\TalkServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[20-Apr-2018 09:30:06 UTC] PHP Fatal error:  Class 'Nahid\Talk\Facades\Talk' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/MessageController.php on line 23
+[20-Apr-2018 09:30:06 UTC] PHP Fatal error:  Class 'Nahid\Talk\Facades\Talk' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/MessageController.php on line 23
+[20-Apr-2018 09:30:29 UTC] PHP Fatal error:  Class 'Nahid\Talk\Facades\Talk' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/MessageController.php on line 23
+[20-Apr-2018 09:30:29 UTC] PHP Fatal error:  Class 'Nahid\Talk\Facades\Talk' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/MessageController.php on line 23
+[20-Apr-2018 09:32:24 UTC] PHP Fatal error:  Class 'Nahid\Talk\TalkServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[20-Apr-2018 09:32:24 UTC] PHP Fatal error:  Class 'Nahid\Talk\TalkServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[20-Apr-2018 09:35:59 UTC] PHP Fatal error:  Class 'CreateMessagesTable' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php on line 417
+[26-Apr-2018 09:32:16 UTC] PHP Fatal error:  Class 'App\Models\DB' not found in /home3/idzssl5m/public_html/event-manager/app/Models/Ticket.php on line 21
+[26-Apr-2018 09:32:17 UTC] PHP Fatal error:  Class 'App\Models\DB' not found in /home3/idzssl5m/public_html/event-manager/app/Models/Ticket.php on line 21
+[26-Apr-2018 09:33:00 UTC] PHP Fatal error:  Class 'App\Models\DB' not found in /home3/idzssl5m/public_html/event-manager/app/Models/Ticket.php on line 22
+[26-Apr-2018 09:33:01 UTC] PHP Fatal error:  Class 'App\Models\DB' not found in /home3/idzssl5m/public_html/event-manager/app/Models/Ticket.php on line 22
+[30-Apr-2018 12:18:22 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Carbon' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/UserController.php on line 41
+[30-Apr-2018 13:25:37 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Datatables' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/CarnivalController.php on line 188
+[30-Apr-2018 13:25:48 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Datatables' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/CarnivalController.php on line 188
+[30-Apr-2018 13:25:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Datatables' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/CarnivalController.php on line 188
+[03-May-2018 05:17:15 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:17:16 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:17:16 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:17:32 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:17:32 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:17:32 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:18:00 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:18:01 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:18:01 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:18:41 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:19:03 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:19:04 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:19:04 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:21:36 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:21:37 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:21:37 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:21:44 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:21:44 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:21:44 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:21:54 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:21:54 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[03-May-2018 05:21:54 UTC] PHP Parse error:  syntax error, unexpected '$req' (T_VARIABLE) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 58
+[08-May-2018 09:48:58 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/RegisterController.php on line 471
+[10-May-2018 06:58:59 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:04 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:05 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:09 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:20 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:21 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:24 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:25 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:28 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:28 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:31 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:31 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:34 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:36 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:39 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:41 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:45 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:48 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 06:59:51 UTC] PHP Fatal error:  Class 'Barryvdh\DomPDF\ServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[10-May-2018 09:38:09 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 168
+[10-May-2018 09:38:23 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 168
+[10-May-2018 09:38:53 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 168
+[10-May-2018 09:39:35 UTC] PHP Parse error:  syntax error, unexpected ',', expecting ']' in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 168
+[31-May-2018 07:09:23 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/EventController.php on line 202
+[31-May-2018 07:16:27 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/EventController.php on line 202
+[31-May-2018 07:16:39 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/EventController.php on line 202
+[31-May-2018 07:18:50 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/EventController.php on line 199
+[13-Jun-2018 10:47:52 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 324
+[13-Jun-2018 10:48:09 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 324
+[13-Jun-2018 10:48:13 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 324
+[13-Jun-2018 10:48:14 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 324
+[14-Jun-2018 11:32:33 UTC] PHP Fatal error:  Class 'Intervention\Image\ImageServiceProvider' not found in /home3/idzssl5m/public_html/event-manager/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 208
+[05-Jul-2018 14:18:03 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\ReviewController::postEventreview() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/ReviewController.php on line 45
+[11-Jul-2018 07:02:29 UTC] PHP Fatal error:  Trait 'App\Models\SoftDeletes' not found in /home3/idzssl5m/public_html/event-manager/app/Models/Guard.php on line 11
+[11-Jul-2018 07:03:13 UTC] PHP Fatal error:  Trait 'App\Models\SoftDeletingTrait' not found in /home3/idzssl5m/public_html/event-manager/app/Models/Guard.php on line 11
+[11-Jul-2018 07:03:42 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\SoftDeletingTrait' not found in /home3/idzssl5m/public_html/event-manager/app/Models/Guard.php on line 11
+[13-Jul-2018 11:32:22 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 28
+[13-Jul-2018 11:32:23 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 28
+[13-Jul-2018 11:32:24 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 28
+[13-Jul-2018 11:32:31 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 28
+[13-Jul-2018 12:05:12 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 28
+[13-Jul-2018 12:05:12 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 28
+[13-Jul-2018 12:05:12 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 28
+[13-Jul-2018 12:15:53 UTC] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 28
+[19-Jul-2018 13:43:22 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\HomeController::create_jpeg_thumbnail() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 1104
+[19-Jul-2018 13:43:23 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\HomeController::create_jpeg_thumbnail() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 1104
+[19-Jul-2018 13:44:40 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\HomeController::create_jpeg_thumbnail() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 1104
+[19-Jul-2018 13:44:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\HomeController::create_jpeg_thumbnail() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 1104
+[20-Jul-2018 09:25:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/ForgotPasswordController.php on line 197
+[20-Jul-2018 12:00:23 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/GuardController.php on line 6
+[20-Jul-2018 12:00:58 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Admin\Controller' not found in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/GuardController.php on line 18
+[27-Jul-2018 08:13:46 UTC] PHP Fatal error:  Can't use method return value in write context in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 105
+[02-Aug-2018 12:38:40 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 528
+[02-Aug-2018 12:39:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 527
+[03-Aug-2018 10:33:39 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 981
+[03-Aug-2018 10:33:47 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 981
+[03-Aug-2018 10:34:03 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 981
+[03-Aug-2018 13:26:56 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\HomeController::promoter_events_test() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 955
+[06-Aug-2018 06:21:41 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\GuardController::scannedTicketListTest() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/GuardController.php on line 176
+[10-Aug-2018 10:17:31 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\TicketsController::calculateAmount() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/TicketsController.php on line 750
+[10-Aug-2018 10:31:44 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\TicketsController::calculateAmount() in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/Admin/TicketsController.php on line 743
+[10-Aug-2018 11:06:55 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/HomeController.php on line 1003
+[13-Aug-2018 09:56:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /home3/idzssl5m/public_html/event-manager/app/Http/Controllers/api/EventsController.php on line 1297
+[16-Aug-2018 13:59:07 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home3/idzssl5m/public_html/event-manager/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 136
+[16-Aug-2018 13:59:07 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home3/idzssl5m/public_html/event-manager/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[17-Aug-2018 14:25:52 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2018 14:56:37 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2018 14:56:37 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2018 14:56:37 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2018 14:56:37 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2018 14:56:37 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2018 14:56:37 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2018 14:56:37 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2018 14:56:37 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[20-Aug-2018 14:56:37 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 11:17:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 11:17:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 11:17:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 11:17:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 11:17:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 11:17:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 11:17:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 11:17:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 11:17:59 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 18:43:15 America/Chicago] PHP Warning:  POST Content-Length of 107300366 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[22-Aug-2018 00:58:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home3/idzssl5m/public_html/event-manager/app/Library/ImageManipulator.php on line 61
+[22-Aug-2018 01:06:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home3/idzssl5m/public_html/event-manager/app/Library/ImageManipulator.php on line 61
+[22-Aug-2018 01:11:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home3/idzssl5m/public_html/event-manager/app/Library/ImageManipulator.php on line 61
+[22-Aug-2018 01:44:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 16384 bytes) in /home3/idzssl5m/public_html/event-manager/app/Library/ImageManipulator.php on line 61
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0
+[21-Aug-2018 21:08:13 America/Chicago] PHP Warning:  Maximum number of allowable file uploads has been exceeded in Unknown on line 0

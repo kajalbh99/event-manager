@@ -1,0 +1,112 @@
+/* here you can put your own css to customize and override the theme */
+
+.page-content .page-breadcrumb.breadcrumb > li{
+    color: #333;
+    font-size: 14px;
+    text-shadow: none;
+}
+
+.page-sidebar .sidebar-toggler {
+    margin-bottom: 10px;
+}
+
+.help-block {
+    display: initial;
+    color: red;
+}
+
+#carnivalForm .carnival_name-error, #carnivalEditForm .carnival_name-error{
+    border: red;
+}
+#fileselector {
+    margin: 10px; 
+}
+#upload-file-selector {
+    display:none;   
+}
+.upload-file-selector{
+    display:none !important;   
+}
+.margin-correction {
+    margin-right: 10px;   
+}
+.banner{
+    width:185px; 
+    height:175px; 
+    border-radius:50%;
+}
+
+.fileselector .btn.green, #fileselector1 .btn.green {
+    color: white;
+    text-shadow: none;
+    background-color: #35aa47;
+    margin-left: 0px;
+    margin-top: inherit;
+}
+.radio-btn{
+    margin-right: 20px !important;
+}
+.auto{
+    width: auto !important;
+}
+
+#field {
+    margin-bottom:10px;
+}
+#field .btn{
+position: relative !important;
+top: -34px !important;
+left: 230px !important;
+}
+#field input{
+    margin-top: -20px;
+}
+#field1{
+    margin-top: 10px !important;
+}
+#active{
+   margin-left: 10px !important; 
+}
+.form-label{
+    margin-right: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+.event{
+    height: auto;
+}
+
+.add-btn .btn{
+    margin-bottom: 20px !important;
+    margin-top: 10px !important;
+}
+.removeImage{
+    width:10%;
+}
+.state{
+    margin-top: 13px !important;
+}
+.active{
+    padding-left: 75px;
+    padding-top: 25px;
+}
+.btn.green {
+    margin-top: inherit !important;
+}/********* 21 june 2018 ******/.datepicker table tr td span.active.active{padding:0px;}
+/******5july********/
+.test_btn
+{
+	margin-left:19px;
+}
+.custom_review .col-sm-6 span
+
+{
+	margin-left: 14px;
+    font-size: 16px;
+}
+.custom_review .event_review_images img
+{
+    min-height: 300px;
+    max-height: 300px;
+	width:100%;
+}

@@ -1,0 +1,226 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+     	<!-- title -->
+      	<title>jQuery.Fileuploader - Revolutionary and powerful jQuery and PHP file upload plugin - Innostudio.de</title>
+       	<meta name="description" content="Fileuploader - Revolutionary, powerful and fully customizable jQuery and PHP file upload plugin. Drag&drop feature, ajax upload, image editor, sorting and many other features.">
+        
+        <!-- links -->
+        <link rel="shortcut icon" href="https://innostudio.de/fileuploader/images/favicon.ico">
+		<link rel="alternate" href="https://innostudio.de/fileuploader/" hreflang="x-default" />
+		
+		<!-- metas -->
+       	<meta name="application-name" content="Fileuploader" />
+       	<meta name="application-version" content="2.0" />
+       	<meta name="application-version-date" content="16-May-2018" />
+        <meta property="og:url" content="https://innostudio.de/fileuploader/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="jQuery.Fileuploader - Revolutionary and powerful jQuery and PHP file upload plugin" />
+        <meta property="og:description" content="Fileuploader - Revolutionary, powerful and fully customizable jQuery and PHP file upload plugin. Drag&drop feature, ajax upload, image editor, sorting and many other features." />
+        <meta property="og:image" content="https://innostudio.de/fileuploader/preview2.0.jpg" />
+
+		<!-- Fonts -->
+		<link rel="stylesheet" href="css/font-roboto/font-roboto.css">
+        <link rel="stylesheet" href="css/font-material-icons/font-material-icons.css">
+		<link href="css/font/font-fileuploader.css" rel="stylesheet">
+		
+		<!-- styles -->
+        <link rel="stylesheet" href="https://innostudio.de/fileuploader/css/bootstrap.min.css">
+		<link href="https://innostudio.de/fileuploader/css/jquery.modal.css" media="all" rel="stylesheet">
+		<link href="https://innostudio.de/fileuploader/css/jquery.slick.css" media="all" rel="stylesheet">
+		<link href="https://innostudio.de/fileuploader/css/main.css?v=2.0" media="all" rel="stylesheet">
+        
+        <!-- js -->
+		<script src="https://innostudio.de/fileuploader/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+        <script src="https://innostudio.de/fileuploader/js/run_prettify.js" type="text/javascript"></script>
+		<script src="https://innostudio.de/fileuploader/js/jquery.modal.min.js" type="text/javascript"></script>
+		<script src="https://innostudio.de/fileuploader/js/jquery.slick.min.js" type="text/javascript"></script>
+		<script src="https://innostudio.de/fileuploader/js/main.js?v=2.0" type="text/javascript"></script>
+        
+        <link href="https://innostudio.de/fileuploader/css/prettyprint.css" media="all" rel="stylesheet">
+	</head>
+	<body>
+        <div class="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="logo">
+                            <h1>jQuery.Fileuploader <a href="https://innostudio.de/fileuploader/documentation/#changelog" title="Changelog" target="_blank">2.0</a></h1>
+                        </div>
+                    </div>
+                    <div class="col-md-8 text-right">
+                        <ul class="list-inline menu">
+                            <li><a href="https://innostudio.de/fileuploader/#examples">Examples</a></li>
+                            <li><a href="https://innostudio.de/fileuploader/documentation/">Documentation</a></li>
+                            <li><a href="https://innostudio.de/fileuploader/#features">Features</a></li>
+                            <li><a href="https://innostudio.de/fileuploader/documentation/#license">License</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="main">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>Revolutionary HTML5<br> file upload plugin</h2>
+                        <p>Beautiful and powerful HTML5 file upload plugin. A jQuery and PHP tool that transforms the standard file input into a revolutionary and fancy field on your page.</p>
+                        
+                        <ul class="list-inline">
+                            <li><a href="#download" class="button"><i class="material-icons">cloud_download</i> Download</a></li>
+                            <li><a href="https://innostudio.de/fileuploader/documentation/">Getting started</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 main-circle"></div>
+                </div>
+            </div>
+        </div>
+        <div id="easy-use" class="section section-features">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <pre class="prettyprint"><code data-code="language-html">&lt;!-- 1. Link the font-fileuploader.css, jquery.fileuploader.min.css and jquery.fileuploader.min.js files --&gt;</code></pre>
+						<pre class="prettyprint"><code data-code="language-html">&lt;!-- 2. create a file input --&gt;
+&lt;form action=&quot;submit.php&quot; method=&quot;post&quot; enctype=&quot;multipart/form-data&quot;&gt;
+    &lt;input type=&quot;file&quot; name=&quot;files&quot;&gt;
+    
+    &lt;input type=&quot;submit&quot;&gt;
+&lt;/form&gt;</code></pre>
+                        <pre class="prettyprint"><code data-code="language-html">// 3. call fileuploader instance
+$('input[name=&quot;files&quot;]').fileuploader({
+    // Options will go here
+});</code></pre>
+                    </div>
+                    <div class="col-md-6">
+                        <h3 class="h2">Easy to use</h3>
+                        <p>You can see that the Fileuploader can be easily implemented in your HTML page. In average, you need less than five minutes to link the plugin files into your document, create a file input and call the <code>fileuploader</code> instance to get your first view of new file input working.</p>
+                        <ul class="list-inline">
+                            <li><a href="https://innostudio.de/fileuploader/documentation/#installation" class="innostudio">Installation</a></li>
+                            <li><a href="https://innostudio.de/fileuploader/documentation/#options">Options</a></li>
+                            <li><a href="https://innostudio.de/fileuploader/documentation/#php">PHP</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="examples" class="section section-examples text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3 class="h2">Examples</h3>
+                        <p>We collected below a list with different examples that are showing the themes and features of the Fileuploader. Keep in mind that the examples can be combined together. Checkout the "Others" tab to see the entire list with the examples.</p>
+                    </div>
+                    <div class="col-md-12">
+                        <ul class="list-inline preview-menu">
+                            <li><a class="active" data-id="1">Default</a></li>
+                            <li><a data-id="2">Drag&amp;Drop with Ajax</a></li>
+                            <li><a data-id="3">Preloaded files</a></li>
+                            <li><a data-id="4">Image editor</a></li>
+                            <li><a data-id="5">Sorter</a></li>
+                            <li><a href="https://innostudio.de/fileuploader/documentation/#examples" target="_blank"><i class="material-icons">open_in_new</i> Others</a></li>
+                        </ul>
+                        <div class="preview">
+                            <div class="tab active" data-id="1">
+                                <form action="php/form_upload.php" method="post" enctype="multipart/form-data">
+                                    <input type="file" name="files" id="files">
+                                    <input type="submit">
+                                </form>
+                            </div>
+                            <div class="tab" data-id="2">
+                                <input type="file" name="files" id="files2">
+                            </div>
+                            <div class="tab" data-id="3">
+                                <form action="php/form_upload.php" method="post" enctype="multipart/form-data">
+                                    <input type="file" name="files" id="files3">
+                                    <input type="submit">
+                                </form>
+                            </div>
+                            <div class="tab" data-id="4">
+                                <form action="php/form_upload.php" method="post" enctype="multipart/form-data">
+                                    <input type="file" name="files" id="files4">
+                                    
+                                    <div class="form-status"></div>
+                                    <input type="submit">
+                                </form>
+                            </div>
+                            <div class="tab" data-id="5">
+                                <form action="php/form_upload.php" method="post" enctype="multipart/form-data">
+                                    <input type="file" name="files" id="files5">
+                                    <input type="submit">
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="features" class="section section-features">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h3 class="h2">Features</h3>
+                        <p>Fileuploader as a jQuery file upload plugin - easy to use in many systems, compatible with all modern browsers and >IE10, responsive and works for servers based on PHP, ASP.NET, C#, Node.js, Python and others that supports standard HTML form file uploads as well. Checkout the main features.</p>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="row features-list innostudio">
+                            <div class="col-sm-6">
+                                <i class="material-icons">card_giftcard</i>
+                                <h3>Themes</h3>
+                                <p>5 different themes for all features included. Customize and design your own templates for input and file preview elements; add custom buttons and inputs with HTML/CSS and jQuery.</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <i class="material-icons">plus_one</i>
+                                <h3>Add files from different folders</h3>
+                                <p>Activate the `addMore` option to let you choose another file once you've choosed one from another folder already.</p>
+                            </div>
+                        </div>
+                        <div class="row features-list">
+                            <div class="col-sm-6">
+                                <i class="material-icons">touch_app</i>
+                                <h3>Drag&amp;Drop and Ajax upload</h3>
+                                <p>Upload files separately using Ajax with a nice progress effect after choosing, dropping or even pasting them from the clipboard. Large files can be also sliced into chunks and uploaded to the server.</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <i class="material-icons">open_with</i>
+                                <h3>Preload files and sort</h3>
+                                <p>Preload already uploaded files to see and manipulate them. The plugin also provides the ability to sort the all files using drag and drop.</p>
+                            </div>
+                        </div>
+                        <div class="row features-list">
+                            <div class="col-sm-6">
+                                <i class="material-icons">crop_rotate</i>
+                                <h3>Image editor and lightbox</h3>
+                                <p>Preview the files in a lightbox. Enable the editor to edit the images on server-side or client-side by resizing, rotating or cropping them using a custom or free ratio. The PHP class can also create thumbnails for your website.</p>
+                            </div>
+                            <div class="col-sm-6">
+                                <i class="material-icons">error_outline</i>
+                                <h3>API and validation</h3>
+                                <p>Limit the user from uploading too many or too big or even files with the wrong extension. Add your own validator function and callbacks, use API methods and freely manipulate the appearance and functionality of the plugin.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <br><br>
+                                <a href="#list-of-features">See all features</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="footer">
+                        <p><a href="https://innostudio.de/fileuploader/" class="innostudio">@Fileuploader</a> - Designed and built with passion by <a href="https://innostudio.de/" target="_blank">Innostudio.de</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+	</body>
+</html>
